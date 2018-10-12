@@ -1,6 +1,6 @@
-# TEMPLATE START PROJECT
+# Lib JS Cookies Modal Alert
 
-Start Project with browserify (optional) and separate gulp tasks.
+Start Project with browserify gulp tasks.
 
 ## How To start?
 
@@ -15,7 +15,7 @@ Dev build will create after every files change.
 
 ## Build
 
-Run `gulp build` to build the project for production. The build artifacts will be stored in the `docs/` (or your configured folder in ./gulp/config.js) directory.
+Run `gulp build` to build the project for production. The build artifacts will be stored in the `dist/` (or your configured folder in ./gulp/config.js) directory.
 
 ## Configure
 
