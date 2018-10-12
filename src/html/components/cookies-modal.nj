@@ -1,0 +1,10 @@
+<div class="m-cookies">
+    <div class="m-cookies__text">
+        We use cookies to improve your experience on our website. By browsing this website, you agree to our use of cookies.
+    </div>
+
+    <div class="m-cookies__btns">
+        <button class="m-cookies__btn m-cookies__btn_primary">Ok</button>
+        <a href="#" class="m-cookies__btn m-cookies__btn_secondary">More Info</a>
+    </div>
+</div>
