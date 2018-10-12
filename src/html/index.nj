@@ -1,0 +1,11 @@
+{% set title = 'Start Project' %}
+{% set description = 'Template Start Project with Browserify' %}
+
+{% extends "layouts/_layout-main.nj" %}
+{% block content %}
+
+    {% include "partials/_header.nj" %}
+    {% include "partials/_main-page.nj" %}
+    {% include "partials/_footer.nj" %}
+
+{% endblock %}
